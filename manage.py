@@ -1,3 +1,4 @@
+# manage.py 는 Django 프로젝트를 관리하는 일에 필요한 기능을 명령줄 쉘(shell)에서 수행하는 도구이다.
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
