@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-cbw^ykj7lt4g9xjl4ps(%om((%e1=i)y3dxz2az(hrrjyff7=y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.paythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'taehan.paythonanywhere.com']
 
 
 # Application definition
